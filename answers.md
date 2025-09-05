@@ -9,40 +9,13 @@ Question 3:
     It pulls up a list of commands used in various situations.
     
 Question 4:
-    On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	README.md
-	answers.md
-
-nothing added to commit but untracked files present (use "git add" to track)
-
+    It shows me that both of the created files are untracked.
     
 Question 5:
-    On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	answers.md
+    It shows that README was made into a new file but answers.md is still untracked
     
 Question 6:
-    On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   README.md
-	new file:   answers.md
+    Both of my files have been made into new files
     
 Question 7:
     [master (root-commit) 015373a] Initial commit
@@ -51,11 +24,7 @@ Question 7:
  create mode 100644 answers.md
  
  Question 8:
-    commit 015373a60325ef4476c33352f6ca3abe3fca9f9c (HEAD -> master)
-Author: Jerry Stratton <Js688723@ohio.edu>
-Date:   Fri Sep 5 14:37:05 2025 -0400
-
-    Initial commit
+    Just shows me the history of my comments
     
 Question 9:
     It added both README.md and answers.md on to the git-lab repository
@@ -67,4 +36,7 @@ Question 11:
     It listed a error: failed to push some refs to my github.
 
 Question 12:
-    
+    No they werent
+
+Question 13:
+    It lists out .gitignore and other files in the directory.
